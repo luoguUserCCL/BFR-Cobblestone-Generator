@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# Eclipse
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Forge / Minecraft
+run/
+logs/
+mcmodsrepo/
+
+# Generated data
+src/generated/resources/
+
+# Research scratch
+_research/

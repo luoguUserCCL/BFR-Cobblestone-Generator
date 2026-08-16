@@ -1,0 +1,7 @@
+{
+  "block.cobblegenstandalone.cobblestone_generator": "Cobblestone Generator",
+  "itemGroup.cobblegenstandalone": "Cobblestone Generator",
+  "itemGroup.cobblegenstandalone.tab": "Cobblestone Generator",
+  "tooltip.cobblegenstandalone.generator": "Generator",
+  "tooltip.cobblegenstandalone.gui_auto_output": "Auto Output"
+}

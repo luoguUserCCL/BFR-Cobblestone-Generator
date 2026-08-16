@@ -1,0 +1,7 @@
+{
+  "block.cobblegenstandalone.cobblestone_generator": "圆石制造机",
+  "itemGroup.cobblegenstandalone": "圆石制造机",
+  "itemGroup.cobblegenstandalone.tab": "圆石制造机",
+  "tooltip.cobblegenstandalone.generator": "制造机",
+  "tooltip.cobblegenstandalone.gui_auto_output": "自动输出"
+}
